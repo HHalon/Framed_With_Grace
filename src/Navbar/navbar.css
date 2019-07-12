@@ -1,0 +1,36 @@
+/*Navbar*/
+
+.navbar{
+    background-color: blue;
+}
+
+.home {
+    float: left;
+    padding:5px;
+}
+
+.contact{
+    float: right;
+    padding: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.gallery {
+    float: right;
+    padding: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.about{
+    float: right;
+    padding:5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    
+}
+ul {
+    list-style-type: none;
+    background-color: blue;
+}
